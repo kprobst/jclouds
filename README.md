@@ -114,7 +114,7 @@ Check out https://github.com/jclouds/jclouds-examples for more examples!
 Downloads
 ------------------------
 * release notes: http://www.jclouds.org/documentation/releasenotes/1.5
-* installation guide: http://www.jclouds.org/documentation/userguide/installation-guide
+* installation guide: http://jclouds.apache.org/start/install/
 * maven repo: http://repo2.maven.org/maven2 (maven central - the default repository)
 * snapshot repo: https://oss.sonatype.org/content/repositories/snapshots
  
